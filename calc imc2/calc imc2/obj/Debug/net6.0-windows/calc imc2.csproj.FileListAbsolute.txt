@@ -1,0 +1,17 @@
+D:\Visual Studio - Felipe\calc imc2\calc imc2\bin\Debug\net6.0-windows\calc imc2.exe
+D:\Visual Studio - Felipe\calc imc2\calc imc2\bin\Debug\net6.0-windows\calc imc2.deps.json
+D:\Visual Studio - Felipe\calc imc2\calc imc2\bin\Debug\net6.0-windows\calc imc2.runtimeconfig.json
+D:\Visual Studio - Felipe\calc imc2\calc imc2\bin\Debug\net6.0-windows\calc imc2.dll
+D:\Visual Studio - Felipe\calc imc2\calc imc2\bin\Debug\net6.0-windows\calc imc2.pdb
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.csproj.AssemblyReference.cache
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc_imc2.Form1.resources
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.csproj.GenerateResource.cache
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.AssemblyInfoInputs.cache
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.AssemblyInfo.cs
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.csproj.CoreCompileInputs.cache
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.dll
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\refint\calc imc2.dll
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.pdb
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\calc imc2.genruntimeconfig.cache
+D:\Visual Studio - Felipe\calc imc2\calc imc2\obj\Debug\net6.0-windows\ref\calc imc2.dll
