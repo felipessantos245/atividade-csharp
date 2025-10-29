@@ -1,0 +1,18 @@
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\bin\Debug\net6.0-windows\projeto hamburgueria.exe
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\bin\Debug\net6.0-windows\projeto hamburgueria.deps.json
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\bin\Debug\net6.0-windows\projeto hamburgueria.runtimeconfig.json
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\bin\Debug\net6.0-windows\projeto hamburgueria.dll
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\bin\Debug\net6.0-windows\projeto hamburgueria.pdb
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.csproj.AssemblyReference.cache
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto_hamburgueria.Form1.resources
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto_hamburgueria.Properties.Resources.resources
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.csproj.GenerateResource.cache
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.AssemblyInfoInputs.cache
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.AssemblyInfo.cs
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.csproj.CoreCompileInputs.cache
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.dll
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\refint\projeto hamburgueria.dll
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.pdb
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\projeto hamburgueria.genruntimeconfig.cache
+D:\Visual Studio - Felipe\projeto hamburgueria\projeto hamburgueria\obj\Debug\net6.0-windows\ref\projeto hamburgueria.dll
